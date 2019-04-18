@@ -18,3 +18,8 @@ yarn-debug.log*
 yarn-error.log*
 yarn.lock
 !/yarn.lock
+
+site/node_modules
+site/public
+site/db.json
+site/packge-log.json
